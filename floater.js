@@ -1,8 +1,5 @@
 const render3D = `<div id="mydiv">
 <div id="mydivheader">Click here to move</div>
-<p>Move</p>
-<p>this</p>
-<p>DIV</p>
 </div>`;
 
 const floater = () => {
